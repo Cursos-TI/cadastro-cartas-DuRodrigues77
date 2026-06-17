@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-// teste de descrição no github.
+// teste de descrição no github..
 
 
 int main()
